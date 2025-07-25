@@ -8,5 +8,10 @@
         "version": "1.0.0",
         "description": "Initial release of character backgrounds",
         "date": "05.07.2025"
+    },
+    "spooni_stockmarket": {
+        "version": "1.0.0",
+        "description": "Initial release of Dusty Dollar Stock Market",
+        "date": "26.07.2025"
     }
 }
