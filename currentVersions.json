@@ -2,16 +2,25 @@
     "spooni_weaponController": {
         "version": "1.0.0",
         "description": "Initial release of the weapon controller",
-        "date": "04.07.2025"
+        "date": "04.07.2025",
+        "recentChanges": "None"
     },
     "spooni_characterBackgrounds": {
         "version": "1.0.0",
         "description": "Initial release of character backgrounds",
-        "date": "05.07.2025"
+        "date": "05.07.2025",
+        "recentChanges": "None"
     },
     "spooni_stockmarket": {
         "version": "1.0.0",
         "description": "Initial release of Dusty Dollar Stock Market",
-        "date": "26.07.2025"
-    }
+        "date": "26.07.2025",
+        "recentChanges": "None"
+    },
+    "spooni_ambientPedManager": {
+        "version": "1.0.0",
+        "description": "Initial release of ambient ped manager",
+        "date": "29.07.2025",
+        "recentChanges": "None"
+    },
 }
