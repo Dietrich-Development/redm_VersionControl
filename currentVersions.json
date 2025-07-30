@@ -23,4 +23,10 @@
         "date": "29.07.2025",
         "recentChanges": "None"
     },
+    "spooni_wildHorseManager": {
+        "version": "1.0.0",
+        "description": "Initial release of wild horse manager",
+        "date": "30.07.2025",
+        "recentChanges": "None"
+    }
 }
