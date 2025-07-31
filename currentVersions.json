@@ -12,10 +12,10 @@
         "recentChanges": "None"
     },
     "spooni_stockmarket": {
-        "version": "1.0.0",
+        "version": "1.1.0",
         "description": "Initial release of Dusty Dollar Stock Market",
         "date": "26.07.2025",
-        "recentChanges": "None"
+        "recentChanges": "Added the ability to turn on commands for admins only | Added option to set a blip for stockmarket locations"
     },
     "spooni_ambientPedManager": {
         "version": "1.0.0",
